@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Sina 👋
 
-<!--
-**sina0810/Sina0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👨‍🏫 About Me
+- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
+- Born in Kurdistan → Raised in Kurdistan and Virgina → Currently in Brooklyn NY.
+- Outside of work I like to do sports; such as, soccer, swimming, and working out. 
+- Let's connect via email: sinakhoshnaw2@gmail.com
 
-Here are some ideas to get you started:
+## Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- JavaScript
+
+### Frameworks & Libraries
+- Node.js
+
+### Tools
+- Git
+- GitHub
