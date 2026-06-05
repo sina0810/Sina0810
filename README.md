@@ -15,7 +15,7 @@
 Job Application Tracker
 (https://job-application-tracker-hx6t.onrender.com) | Full-stack app to track job applications and statuses | React, Node.js, Express, PostgreSQL
 
-Art Gallery(https://github.com/Sina-Julio-mls/mod-4-project) | Dynamic paintings gallery using the Art Institute of Chicago API | JavaScript, HTML, CSS, REST API 
+Art Gallery(https://sina-julio-mls.github.io/mod-4-project/) | Dynamic paintings gallery using the Art Institute of Chicago API | JavaScript, HTML, CSS, REST API 
 
 Portfolio(https://sina0810.github.io) | Personal portfolio showcasing my projects and skills | HTML, CSS, JavaScript 
 
